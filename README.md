@@ -1,6 +1,8 @@
 # Meta-Weapons
 Hello! This is my first ever actual datapack project. In this datapack, I just create a lot of weapons that do custom things.
 
+To get all of the weapons, do /function pack:giveallitems
+
 # List of Weapons
 
 ## Infuser
@@ -39,7 +41,7 @@ This is the first item released on the Defects SMP. When worn, it will give you 
 
 ## Yamato
 
-I'm currently going through a phase where I'm really into Devil May Cry right now, so I decided to make a sword from the game! The Yamato will perform an AOE attack that slashes the air and after a few seconds will deal 50 damage to everyone caught in it's radius. Based off of Vergil's Judgement Cut
+I'm currently going through a phase where I'm really into Devil May Cry right now, so I decided to make a sword from the game! The Yamato will perform an AOE attack that slashes the air around you and after a few seconds will deal 50 damage to everyone caught in it's radius. Based off of Vergil's Judgement Cut
 
 ## Devil Trigger
 
